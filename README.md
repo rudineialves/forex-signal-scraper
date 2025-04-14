@@ -7,7 +7,7 @@ Um script automatizado em Python que utiliza Selenium para fazer web scraping de
 Este projeto realiza:
 
 - Login automático em um site de sinais Forex
-- Extração de dados como símbolo, horários, preço, lucro e perda
+- Extração de dados como símbolo, horários, preço, take profit e stop loss
 - Envio automatizado desses dados para um endpoint configurável (webhook)
 - Acesso em loop com delays aleatórios para simular comportamento humano
 
