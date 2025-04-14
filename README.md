@@ -6,8 +6,8 @@
 ![Webscraper](https://img.shields.io/badge/type-webscraper-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-working-success)
-![Repo Stars](https://img.shields.io/github/stars/neydev/forex-signal-scraper?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/neydev/forex-signal-scraper)
+![Repo Stars](https://img.shields.io/github/stars/rudineialves/forex-signal-scraper?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/rudineialves/forex-signal-scraper)
 
 Um script automatizado em Python que utiliza Selenium para fazer web scraping de sinais de Forex em um site privado e envia os dados para um webhook via POST.
 
