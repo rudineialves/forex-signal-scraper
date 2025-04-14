@@ -14,7 +14,7 @@ Este projeto realiza:
 ## ⚙️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/forex-signal-scraper.git
+git clone https://github.com/rudineialves/forex-signal-scraper.git
 cd forex-signal-scraper
 pip install -r requirements.txt
 ```
