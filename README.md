@@ -60,7 +60,7 @@ Este script simula ações humanas em um site protegido. Certifique-se de estar 
     "timeAgo": "2 minutes ago",
     "timeFrom": "09:00",
     "timeTill": "11:00",
-    "signalStatus": "Active",
+    "signalStatus": "Buy",
     "dealPrice": "1.0830",
     "profit": "1.0880",
     "loss": "1.0800"
