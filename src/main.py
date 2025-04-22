@@ -8,7 +8,6 @@ from random import randint;
 
 username = "myusername@username.com"
 password = "ImaZ567*P67"
-conn = '';
 
 url_source = "https://mysourceurl.com"
 url_destin = "https://mywebhookreceive.com"
